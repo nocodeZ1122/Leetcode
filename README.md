@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nocodeZ1122/Leetcode/tree/master/0743-network-delay-time) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nocodeZ1122/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
