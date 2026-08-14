@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nocodeZ1122/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nocodeZ1122/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nocodeZ1122/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nocodeZ1122/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Union-Find
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/nocodeZ1122/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/nocodeZ1122/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
