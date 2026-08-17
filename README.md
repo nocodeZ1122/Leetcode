@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/nocodeZ1122/Leetcode/tree/master/0886-possible-bipartition) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/nocodeZ1122/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/nocodeZ1122/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nocodeZ1122/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
