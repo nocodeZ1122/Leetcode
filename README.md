@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nocodeZ1122/Leetcode/tree/master/0112-path-sum) |
 | [0743-network-delay-time](https://github.com/nocodeZ1122/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/nocodeZ1122/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/nocodeZ1122/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nocodeZ1122/Leetcode/tree/master/0112-path-sum) |
 | [0743-network-delay-time](https://github.com/nocodeZ1122/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/nocodeZ1122/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/nocodeZ1122/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nocodeZ1122/Leetcode/tree/master/0112-path-sum) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nocodeZ1122/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nocodeZ1122/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/nocodeZ1122/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
