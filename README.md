@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nocodeZ1122/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nocodeZ1122/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/nocodeZ1122/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0743-network-delay-time](https://github.com/nocodeZ1122/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/nocodeZ1122/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/nocodeZ1122/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0652-find-duplicate-subtrees](https://github.com/nocodeZ1122/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nocodeZ1122/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nocodeZ1122/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nocodeZ1122/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nocodeZ1122/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/nocodeZ1122/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nocodeZ1122/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -177,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nocodeZ1122/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nocodeZ1122/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/nocodeZ1122/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 <!---LeetCode Topics End-->
