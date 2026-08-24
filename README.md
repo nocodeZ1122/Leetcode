@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/nocodeZ1122/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0743-network-delay-time](https://github.com/nocodeZ1122/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/nocodeZ1122/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nocodeZ1122/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/nocodeZ1122/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/nocodeZ1122/Leetcode/tree/master/0886-possible-bipartition) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nocodeZ1122/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0743-network-delay-time](https://github.com/nocodeZ1122/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/nocodeZ1122/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nocodeZ1122/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/nocodeZ1122/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/nocodeZ1122/Leetcode/tree/master/0886-possible-bipartition) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/nocodeZ1122/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/nocodeZ1122/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/nocodeZ1122/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/nocodeZ1122/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/nocodeZ1122/Leetcode/tree/master/0886-possible-bipartition) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/nocodeZ1122/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nocodeZ1122/Leetcode/tree/master/0886-possible-bipartition) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/nocodeZ1122/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -93,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Coloring
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/nocodeZ1122/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nocodeZ1122/Leetcode/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/nocodeZ1122/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/nocodeZ1122/Leetcode/tree/master/0886-possible-bipartition) |
 ## Backtracking
 |  |
