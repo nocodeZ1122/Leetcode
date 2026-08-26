@@ -17,6 +17,9 @@ public:
                 if(!dfs(adj, neigh, color, 1 - currcolor))
                     return false;
             }
+            else if (color[neigh] == color[node]){
+                return false ;
+            }
         }
 
         return true;
