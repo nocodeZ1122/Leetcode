@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/nocodeZ1122/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nocodeZ1122/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nocodeZ1122/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/nocodeZ1122/Leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nocodeZ1122/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Heap (Priority Queue)
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2360-longest-cycle-in-a-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -220,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nocodeZ1122/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/nocodeZ1122/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
