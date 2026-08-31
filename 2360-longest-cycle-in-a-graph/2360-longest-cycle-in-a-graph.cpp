@@ -23,7 +23,7 @@ public:
             }
             else if(inRecursion[neigh])
             {
-                // Cycle found
+               
                 int cycleLength = count - depth[neigh] + 1;
 
                 ans = max(ans, cycleLength);
@@ -39,7 +39,7 @@ public:
 
         vector<vector<int>> adj(n);
 
-        // Build directed adjacency list
+        
         for(int i = 0; i < n; i++)
         {
             if(edges[i] != -1)
