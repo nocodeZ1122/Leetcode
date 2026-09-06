@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0290-word-pattern](https://github.com/nocodeZ1122/Leetcode/tree/master/0290-word-pattern) |
 | [0652-find-duplicate-subtrees](https://github.com/nocodeZ1122/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nocodeZ1122/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nocodeZ1122/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/nocodeZ1122/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/nocodeZ1122/Leetcode/tree/master/0290-word-pattern) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/nocodeZ1122/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nocodeZ1122/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
