@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nocodeZ1122/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/nocodeZ1122/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0835-image-overlap](https://github.com/nocodeZ1122/Leetcode/tree/master/0835-image-overlap) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/nocodeZ1122/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nocodeZ1122/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/nocodeZ1122/Leetcode/tree/master/0835-image-overlap) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nocodeZ1122/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Coloring
