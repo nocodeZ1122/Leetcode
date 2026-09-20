@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nocodeZ1122/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nocodeZ1122/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nocodeZ1122/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/nocodeZ1122/Leetcode/tree/master/0053-maximum-subarray) |
 | [0835-image-overlap](https://github.com/nocodeZ1122/Leetcode/tree/master/0835-image-overlap) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/nocodeZ1122/Leetcode/tree/master/2029-stone-game-ix) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nocodeZ1122/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nocodeZ1122/Leetcode/tree/master/0053-maximum-subarray) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nocodeZ1122/Leetcode/tree/master/0053-maximum-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/nocodeZ1122/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
