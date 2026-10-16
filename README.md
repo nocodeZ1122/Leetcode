@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nocodeZ1122/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nocodeZ1122/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/nocodeZ1122/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/nocodeZ1122/Leetcode/tree/master/0056-merge-intervals) |
 | [0835-image-overlap](https://github.com/nocodeZ1122/Leetcode/tree/master/0835-image-overlap) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/nocodeZ1122/Leetcode/tree/master/2029-stone-game-ix) |
@@ -303,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nocodeZ1122/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/nocodeZ1122/Leetcode/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/nocodeZ1122/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
