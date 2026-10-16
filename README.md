@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/nocodeZ1122/Leetcode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/nocodeZ1122/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0652-find-duplicate-subtrees](https://github.com/nocodeZ1122/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/nocodeZ1122/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nocodeZ1122/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nocodeZ1122/Leetcode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/nocodeZ1122/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/nocodeZ1122/Leetcode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/nocodeZ1122/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/nocodeZ1122/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/nocodeZ1122/Leetcode/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/nocodeZ1122/Leetcode/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nocodeZ1122/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/nocodeZ1122/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2029-stone-game-ix](https://github.com/nocodeZ1122/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nocodeZ1122/Leetcode/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nocodeZ1122/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
