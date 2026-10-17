@@ -1,21 +1,19 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        int len = s.length() ; 
-        unordered_map<char,int> q ; 
-        int ans  =0 ; 
-        for(int i =0 ; i<len ;i++){ 
-            q[s[i]] ++ ;
+        unordered_map<char,int> mp ; 
+        int n = s.length() ;
+        int ans = 0  ;
+        for(int i =0 ; i<n; i++ ){
+            mp[s[i]]++ ;
         }
-        for(int i = 0 ; i<len ;i++ ){ 
-            if(q[s[i]] == 1){ 
-                return i ; 
-                break ; 
+        for(int i =0 ;i<n;i++){
+            if(mp[s[i]] == 1){
+                return i  ; 
+                break ;
             }
-          
         }
-        return -1 ;
-        
+        return -1  ; 
+
     }
-    
 };
