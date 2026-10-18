@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nocodeZ1122/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nocodeZ1122/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0835-image-overlap](https://github.com/nocodeZ1122/Leetcode/tree/master/0835-image-overlap) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nocodeZ1122/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nocodeZ1122/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2029-stone-game-ix](https://github.com/nocodeZ1122/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nocodeZ1122/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nocodeZ1122/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nocodeZ1122/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/nocodeZ1122/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/nocodeZ1122/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
