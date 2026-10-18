@@ -21,3 +21,4 @@ public:
         return max(max_all, abs(min_all));
     }
 };
+
